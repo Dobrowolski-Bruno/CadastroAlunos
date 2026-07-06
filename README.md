@@ -1,21 +1,3 @@
 # Cadastro de Alunos
 
-Projeto desenvolvido para praticar vetores e estruturas de decisão em Java.
-
-## Funcionalidades
-
-- Cadastro de alunos
-- Cálculo da média
-- Situação do aluno
-- Média da turma
-- Busca por nome
-
-## Tecnologias
-
-- Java
-- Vetores
-- Scanner
-
-## Objetivo
-
-Treinar o uso de vetores, laços de repetição e condicionais.
+Cadastro de Alunos é uma aplicação de console desenvolvida em Java que simula um sistema simples de gerenciamento acadêmico. O projeto permite cadastrar alunos, calcular médias, determinar a situação acadêmica, consultar alunos por nome e obter a média geral da turma. Foi desenvolvido para fortalecer conceitos de lógica de programação, manipulação de arrays, estruturas condicionais, laços de repetição e interação com o usuário por meio do terminal.
